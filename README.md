@@ -1,6 +1,4 @@
 
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
-<style>
   :root {
     --green: #3B6D11;
     --green-light: #EAF3DE;
@@ -814,4 +812,4 @@ document.querySelector('.promo-opt[data-promo="none"]').classList.add('selected'
 document.getElementById('promoOpt10').style.opacity = '0.45';
 </script>
 </body>
-</html>
+
